@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Not Forgot!</string>
+    <string name="hint_resource">Not Forgot!</string>
+    <string name="token_key">API_TOKEN</string>
+</resources>
